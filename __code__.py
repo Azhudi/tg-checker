@@ -6,9 +6,9 @@ import random
 
 line = "___________"
 
-name = 'Botik'
-api_id = 1313116
-api_hash = 'f01ef8f85a36c139d4777f905ad8bb54'
+name = ''
+api_id = 1234567
+api_hash = ''
 
 def check(phone):
     if phone[0] == '+' and len(phone) >= 10:
